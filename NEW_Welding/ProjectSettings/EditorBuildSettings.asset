@@ -6,20 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu_Scene.unity
-    guid: 09e0c360a392a164e8eaed3c87b49963
-  - enabled: 1
-    path: Assets/Scenes/TIG_WELDING_SCENE_English.unity
-    guid: 3707d81a38586e249a7daa79ba45ef91
-  - enabled: 1
-    path: Assets/Scenes/TIG_WELDING_SCENE_Hindi.unity
-    guid: 2274b270962a6954c91aa00b30213cfa
-  - enabled: 1
     path: Assets/Scenes/MIG_WELDING_SCENE_English.unity
     guid: d0a04a896af8ac94aaa5731fbc5bc8bc
-  - enabled: 1
-    path: Assets/Scenes/MIG_WELDING_SCENE_Hindi.unity
-    guid: c46dd5de2641d42dfa00e05451664a98
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: df548287cf192fc4389f58504103d353,
       type: 2}

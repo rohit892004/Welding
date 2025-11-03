@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class ThirdScene : MonoBehaviour
+public class CubeTouchSwitchFlexible : MonoBehaviour
 {
     public enum ActionMode { Delete, Deactivate }
 
@@ -18,7 +16,7 @@ public class ThirdScene : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("CubeActive")) // Player tag required
+        if (other.CompareTag("Player")) // Player tag required
         {
             // Activate / Deactivate main objects
             if (objectToActivate != null) objectToActivate.SetActive(true);
@@ -63,4 +61,3 @@ public class ThirdScene : MonoBehaviour
         }
     }
 }
-
