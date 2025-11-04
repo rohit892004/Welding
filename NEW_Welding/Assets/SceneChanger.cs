@@ -30,4 +30,14 @@ public class SceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene("MIG_WELDING_SCENE_Hindi");
     }
+
+    public void SPOTEnglish()
+    {
+        SceneManager.LoadScene("SPOT_WELDING_SCENE_English");
+    }
+
+    public void SPOTHindi()
+    {
+        SceneManager.LoadScene("SPOT_WELDING_SCENE_Hindi");
+    }
 }
