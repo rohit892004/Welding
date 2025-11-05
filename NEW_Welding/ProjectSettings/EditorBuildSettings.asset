@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MIG_WELDING_SCENE_English.unity
-    guid: d0a04a896af8ac94aaa5731fbc5bc8bc
+    path: Assets/Scenes/MIG_WELDING_SCENE_Hindi.unity
+    guid: 87f2be02be4efa14989c9953196f4d08
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: df548287cf192fc4389f58504103d353,
       type: 2}
