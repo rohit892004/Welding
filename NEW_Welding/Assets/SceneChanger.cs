@@ -40,4 +40,24 @@ public class SceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene("SPOT_WELDING_SCENE_Hindi");
     }
+
+    public void NUTEnglish()
+    {
+        SceneManager.LoadScene("NUT_WELDING_SCENE_English");
+    }
+
+    public void NUTHindi()
+    {
+        SceneManager.LoadScene("NUT_WELDING_SCENE_Hindi");
+    }
+
+    public void ROBOTEnglish()
+    {
+        SceneManager.LoadScene("Robot_WELDING_SCENE_English");
+    }
+
+    public void ROBOTHindi()
+    {
+        SceneManager.LoadScene("Robot_WELDING_SCENE_Hindi");
+    }
 }
