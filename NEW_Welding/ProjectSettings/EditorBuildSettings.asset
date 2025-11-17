@@ -6,8 +6,38 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu_Scene.unity
+    guid: 09e0c360a392a164e8eaed3c87b49963
+  - enabled: 1
+    path: Assets/Scenes/MIG_WELDING_SCENE_English.unity
+    guid: d0a04a896af8ac94aaa5731fbc5bc8bc
+  - enabled: 1
+    path: Assets/Scenes/MIG_WELDING_SCENE_Hindi.unity
+    guid: 87f2be02be4efa14989c9953196f4d08
+  - enabled: 1
+    path: Assets/Scenes/NUT_WELDING_SCENE_English.unity
+    guid: 4541666c2f491fe4dbc42d4626223d0a
+  - enabled: 1
+    path: Assets/Scenes/NUT_WELDING_SCENE_Hindi.unity
+    guid: 95a64f36a1d37cf4cb813733c035c8fa
+  - enabled: 1
+    path: Assets/Scenes/Robot_WELDING_SCENE_English.unity
+    guid: a3f9250ab0e84214ab33a9edac98e4ea
+  - enabled: 1
     path: Assets/Scenes/Robot_WELDING_SCENE_Hindi.unity
     guid: e399adbbe7ef687469d048da66bd5938
+  - enabled: 1
+    path: Assets/Scenes/SPOT_WELDING_SCENE_English.unity
+    guid: 7227deceff0bc4ef4866685cc90219f7
+  - enabled: 1
+    path: Assets/Scenes/SPOT_WELDING_SCENE_Hindi.unity
+    guid: c38c7fa6afbb97b40a31357ea9ca0ff3
+  - enabled: 1
+    path: Assets/Scenes/TIG_WELDING_SCENE_English.unity
+    guid: 3707d81a38586e249a7daa79ba45ef91
+  - enabled: 1
+    path: Assets/Scenes/TIG_WELDING_SCENE_Hindi.unity
+    guid: 2274b270962a6954c91aa00b30213cfa
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: df548287cf192fc4389f58504103d353,
       type: 2}
