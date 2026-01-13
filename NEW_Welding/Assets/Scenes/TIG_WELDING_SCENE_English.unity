@@ -2203,12 +2203,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '5. Supply Cable and Torch.
+  m_text: '4. Work Cable
 
+    
 
-    The supply cable delivers power and gas,
-    while the torch is the hand-held tool that creates the arc and directs it onto
-    the metal for welding.'
+    It connects the metal piece to the power source,
+    completing the electrical circuit needed for welding.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22786,11 +22786,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '4. Work Cable
+  m_text: '5. Supply Cable and Torch.
 
+    
 
-    It connects the metal piece to the power source, completing
-    the electrical circuit needed for welding.'
+    The supply cable delivers power
+    and gas, while the torch is the hand-held tool that creates the arc and directs
+    it onto the metal for welding.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
